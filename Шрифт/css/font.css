@@ -1,0 +1,130 @@
+@font-face {
+  font-family: "HK-Grotesk-Bold";
+  src: url("../font/HK Grotesk Bold.otf");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "HK-Grotesk-Black-Regular";
+  src: url("../font/HK\ Grotesk\ Black\ Regular.otf");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "HK-Grotesk-Bold-Italic";
+
+  src: url("../font/HK\ Grotesk\ Bold\ Italic.otf");
+  font-weight: 800;
+  font-style: italic;
+}
+@font-face {
+  font-family: "HK-Grotesk-ExtraBold-Regula";
+
+  src: url("../font/HK\ Grotesk\ ExtraBold\ Regular.otf");
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: "HK-Grotesk-Italic";
+  src: url("../font/HK\ Grotesk\ Italic.otf");
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: "HK-Grotesk-Legacy-Italic";
+  src: url("../font/HK\ Grotesk\ Legacy\ Italic.otf");
+  font-weight: 100;
+  font-style: italic;
+}
+@font-face {
+  font-family: "HK-Grotesk-Legacy-Bold-Italic";
+  src: url("../font/HK\ Grotesk\ Legacy\ Bold\ Italic.otf");
+  font-weight: 200;
+  font-style: italic;
+}
+@font-face {
+  font-family: "HK-Grotesk-Legacy-Bold";
+  src: url("../font/HK\ Grotesk\ Legacy\ Bold.otf");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "HK-Grotesk-Light-Italic-Regular";
+
+  src: url("../font/HK\ Grotesk\ Light\ Italic\ Regular.otf");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "HK-Grotesk-Light-Legacy-Italic-Regular";
+  src: url("../font/HK\ Grotesk\ Light\ Legacy\ Italic\ Regular.otf");
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: "HK-Grotesk-Light-Regular";
+  src: url("../font/HK\ Grotesk\ Light\ Regular.otf");
+  font-weight: 350;
+  font-style: normal;
+}
+@font-face {
+  font-family: "HK-Grotesk-Light-Legacy-Regular";
+  src: url("../font/HK\ Grotesk\ Light\Legacy\ Regular.otf");
+  font-weight: 1050;
+  font-style: normal;
+}
+@font-face {
+  font-family: "HK-Grotesk-Medium-Legacy-Italic-Regular";
+
+  src: url("../font/HK\ Grotesk\ Medium\ Legacy\ Italic\ Regular.otf\ Legacy\ Italic\ Regular.otf");
+  font-weight: 750;
+  font-style: italic;
+}
+@font-face {
+  font-family: "HK-Grotesk-Medium-Italic-Regular";
+
+  src: url("../font/HK\ Grotesk\ Medium\ Italic\ Regular.otf\ Legacy\ Italic\ Regular.otf");
+  font-weight: 850;
+  font-style: italic;
+}
+@font-face {
+  font-family: "HK-Grotesk-Medium-Legacy-Regular";
+  src: url("../font/HK\ Grotesk\ Medium\ Legacy\ Regular.otf");
+  font-weight: 450;
+  font-style: normal;
+}
+@font-face {
+  font-family: "HK-Grotesk-Medium-Regular";
+
+  src: url("../font/HK\ Grotesk\ Medium\ Regular.otf");
+  font-weight: 550;
+  font-style: normal;
+}
+@font-face {
+  font-family: "HK-Grotesk-Regular";
+
+  src: url("../font/HK\ Grotesk\ Regular.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "HK-Grotesk-SemiBold-Italic-Regular";
+
+  src: url("../font/HK\ Grotesk\ SemiBold\ Italic\ Regular.otf");
+  font-weight: 650;
+  font-style: italic;
+}
+@font-face {
+  font-family: "HK-Grotesk-SemiBold-Legacy-Regular";
+
+  src: url("../font/HK\ Grotesk\ SemiBold\ Legacy\ Regular.otf");
+  font-weight: 250;
+  font-style: normal;
+}
+@font-face {
+  font-family: "HK-Grotesk-SemiBold-Legacy-Italic-Regular";
+
+  src: url("../font/HK\ Grotesk\ SmiBold\ Legacy\ Italic\ Regular.otf");
+  font-weight: 950;
+  font-style: italic;
+}

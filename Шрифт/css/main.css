@@ -1,0 +1,203 @@
+body,
+html {
+  background-color: #f4eddb;
+  width: 1440px;
+  margin: 0;
+  display: block;
+}
+.menu {
+  width: 1440px;
+  height: 40px;
+}
+.navbar {
+  overflow: hidden;
+  background-color: #201806;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.navbar a {
+  float: left;
+  display: block;
+  color: #f4eddb;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 24px;
+  font-family: "HK Grotesk";
+}
+
+.navbar a:hover {
+  background: #f4eddb;
+  color: #201806;
+}
+h1 {
+  font-family: "HK Grotesk";
+  font-weight: 700;
+  font-size: 150px;
+  color: #201806;
+  font-style: bold;
+  text-align: center;
+}
+h1 + p {
+  font-family: "HK Grotesk";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  color: #201806;
+  margin-left: 850px;
+}
+.conteiner {
+  position: relative;
+  color: #201806;
+}
+.text {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+h2 {
+  font-family: "HK Grotesk";
+  font-weight: 700;
+  font-size: 96px;
+  line-height: 58px;
+  color: #201806;
+  margin-left: 67px;
+  margin-top: 76px;
+}
+h2 + p {
+  font-family: "HK Grotesk";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 26px;
+  color: #201806;
+
+  margin-left: 67px;
+  margin-top: 31px;
+}
+.nadpis {
+  font-family: "HK Grotesk";
+  font-weight: 550;
+  font-style: normal;
+  font-size: 96px;
+  color: #201806;
+  margin-left: 600px;
+  margin: 0;
+  align-items: center;
+  display: flex;
+  text-align: left;
+}
+
+.column {
+  -webkit-columns: 200px 4;
+  -moz-columns: 200px 4;
+  columns: 200px 4;
+  -webkit-column-gap: 20px;
+  -moz-colomn-gap: 20px;
+  column-gap: 20px;
+  margin-left: 67px;
+  margin-top: 76px;
+  font-family: "HK Grotesk";
+  font-size: 40px;
+  line-height: 60px;
+}
+.column > h3:nth-child(1) {
+  font-weight: 350;
+}
+.column > h3:nth-child(2) {
+  font-weight: 1050;
+}
+.column > h3:nth-child(3) {
+  font-weight: 550;
+}
+.column > h3:nth-child(4) {
+  font-weight: normal;
+}
+.column > h3:nth-child(5) {
+  font-weight: 700;
+}
+.column > h3:nth-child(6) {
+  font-weight: 900;
+}
+.column > h3:nth-child(7) {
+  font-weight: 450;
+}
+.column > h3:nth-child(8) {
+  font-weight: 250;
+}
+.column > h3:nth-child(9) {
+  font-weight: 300;
+}
+.column > h3:nth-child(10) {
+  font-weight: 450;
+}
+.column > h3:nth-child(11) {
+  font-weight: 500;
+  font-style: italic;
+}
+.column > h3:nth-child(12) {
+  font-weight: normal;
+  font-style: italic;
+}
+.column > h3:nth-child(13) {
+  font-weight: 450;
+  font-style: normal;
+}
+.column > h3:nth-child(14) {
+  font-weight: 650;
+  font-style: italic;
+}
+.column > h3:nth-child(15) {
+  font-weight: 800;
+  font-style: italic;
+}
+.column > h3:nth-child(16) {
+  font-weight: 500;
+  font-style: italic;
+}
+.column > h3:nth-child(17) {
+  font-weight: 400;
+  font-style: italic;
+}
+.column > h3:nth-child(18) {
+  font-weight: 750;
+  font-style: italic;
+}
+.column > h3:nth-child(19) {
+  font-weight: 950;
+  font-style: italic;
+}
+.column > h3:nth-child(20) {
+  font-weight: 200;
+  font-style: italic;
+}
+.kartinka {
+  line-height: 26px;
+
+  text-align: center;
+}
+.kartinka_e {
+  line-height: 26px;
+
+  text-align: center;
+}
+.karin {
+  margin-left: 67px;
+  margin-top: 76px;
+  font-family: "HK Grotesk";
+  font-weight: 700;
+  font-size: 24px;
+  text-align: center;
+}
+.yzuk {
+  margin-left: 67px;
+  margin-top: 31px;
+  line-height: 26px;
+}
+.butalka {
+  text-align: center;
+
+  line-height: 26px;
+}
